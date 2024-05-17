@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #9763ff;
+    background-color: #9400D3   ;
     color: #ffffff;
 }
 
@@ -23,14 +23,14 @@ body{
 
 .logo{
     width: 25%;
-}
+}   
 
 .escola-img{
     width: 25%;
 }
 
 .escola{
-    background-image: linear-gradient(#697cfa, #0bf0b7);
+    background-image: linear-gradient(#9400D3   , #DDA0DD);
     justify-content: center;
     align-items: center;
     display: flex;
@@ -45,5 +45,20 @@ body{
 }
 
 .estudante-1{
-    width: 10%;
+    width: 15%;
+}
+
+.estudante-2{
+    width: 11%;
+
+}
+
+.estudante-3{
+    width: 11%;
+
+}
+
+.estudante-4{
+    width: 16%;
+
 }
